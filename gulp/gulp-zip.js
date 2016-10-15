@@ -46,6 +46,7 @@
         TASK_NAMES.LINK_INFLATER
     ]);
 
+    //Watch for file changes and rebuild .zip files.
     gulp.task(TASK_NAMES.WATCH, () => {
         gulp.watch([FILE_PATHS.LINK_INFLATER], [TASK_NAMES.LINK_INFLATER]);
     });
