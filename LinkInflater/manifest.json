@@ -3,7 +3,7 @@
     "name": "Link Inflater",
     "buildName": "LinkInflater",
     "description": "This extension expands URLs that have been shortened, so you can know where the URL will redirect you to.",
-    "version": "1.1",
+    "version": "1.0.1",
     "browser_action": {
         "default_icon": "resources/images/icon16.png"
     },
